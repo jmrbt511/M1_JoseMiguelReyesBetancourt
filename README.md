@@ -12,19 +12,7 @@ automático de la paleta actual.
 
 ## Iniciar el proyecto
 
-Los módulos ES (`type="module"`) son bloqueados por los navegadores cuando el 
-archivo se abre directamente mediante `file://` (error CORS). Por tanto, es necesario 
-abrilo a través de un pequeño servidor local:
 
-bash
-# Desde la carpeta del proyecto
-python3 -m http.server 8000
-# luego abre http://localhost:8000
-
-O, con Node instalado:
-
-bash
-npx serve.
 
 ## Estructura
 
