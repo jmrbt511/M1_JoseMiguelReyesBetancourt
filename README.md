@@ -1,4 +1,4 @@
-## Palette — generador de paletas armónicas
+## Palette — Generador de paletas armónicas
 
 Sitio estático desarrollado con HTML, CSS y JavaScript nativo (vainilla), organizado mediante módulos ES. 
 Genera paletas de 6, 8 o 9 colores basadas en armonías cromáticas:
