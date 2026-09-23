@@ -12,7 +12,7 @@ automático de la paleta actual.
 
 ## Iniciar el proyecto
 
-https://jmrbt511.github.io/ProyectoM1_JoseMiguelReyesBetancourt/
+https://jmrbt511.github.io/M1_JoseMiguelReyesBetancourt/
 
 ## Estructura
 
